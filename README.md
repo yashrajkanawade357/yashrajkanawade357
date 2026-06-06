@@ -91,16 +91,17 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 
 ---
 
+
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajkanawade357&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajkanawade357&bg_color=0d1117&color=FFA500&line=FFA500&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajkanawade357&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajkanawade357&theme=dark&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&hide_border=true" />
 </p>
 
 ## 👀 Profile Views
