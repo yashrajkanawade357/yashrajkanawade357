@@ -115,13 +115,7 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 
 ---
 
-## 👀 Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ### ⚡ Motto
 
