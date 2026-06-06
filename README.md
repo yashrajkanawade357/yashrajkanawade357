@@ -4,6 +4,9 @@
 Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 </h3>
 
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+C%2B%2B+%7C+Python+Developer;Building+Projects+and+Solving+Problems;Always+Learning+Something+New+🚀" />
+</p> -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+C%2B%2B+%7C+Python+Developer;Building+Projects+and+Solving+Problems;Always+Learning+Something+New+🚀" />
 </p>
@@ -88,21 +91,23 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajkanawade357&theme=tokyo-night&hide_border=true" />
 </p>
+
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajkanawade357&theme=tokyonight&hide_border=true" />
 </p>
+
+## 👀 Profile Views
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=yashrajkanawade357&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
 
 ## ✍️ Random Dev Quote
 
