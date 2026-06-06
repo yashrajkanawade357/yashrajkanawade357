@@ -105,8 +105,11 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 
 ## 👀 Profile Views
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashrajkanawade357&label=Profile%20Views&color=0e75b6&style=flat" />
+</p> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashrajkanawade357&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ## ✍️ Random Dev Quote
