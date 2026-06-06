@@ -5,7 +5,7 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Learning+Web+Development+and+Data+Analytics;Building+Projects+and+Solving+Problems;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+C%2B%2B+%7C+Python+Developer;Building+Projects+and+Solving+Problems;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
