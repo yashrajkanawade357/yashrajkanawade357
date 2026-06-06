@@ -5,20 +5,21 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Learning+Web+Development+and+Data+Analytics;Building+Projects+and+Solving+Problems;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+C%2B%2B+%7C+Python+Developer;Building+Projects+and+Solving+Problems;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Student at VIT
+- 🎓 B.Tech Computer Science & Engineering Student at Vellore Institute of Technology (VIT)
 - 💡 Passionate about Software Engineering, Artificial Intelligence, and Machine Learning
-- 🌱 Currently learning Data Structures & Algorithms, Web Development, Data Analytics, Deep Learning, and NLP
-- 📊 Experienced with Data Cleaning, EDA, NumPy, Pandas, and Data Visualization
-- 🚀 Building projects to strengthen problem-solving and development skills
-- 🎯 Goal: Become a Software Engineer specializing in AI-powered applications
-- 🤝 Open to collaborating on AI/ML, Open Source, and Development Projects
+- ☕ Strong foundation in Java, C++, Object-Oriented Programming, and Core Computer Science concepts
+- 🌱 Currently learning Data Structures & Algorithms, Spring Boot, Machine Learning, Deep Learning, and NLP
+- 📊 Experienced with Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, NumPy, and Pandas
+- 🚀 Building real-world projects to strengthen problem-solving and development skills
+- 🏆 Core Member, Bulls & Bears – The Finance Club, VIT
+- 🤝 Open to collaborating on Software Development, AI/ML, and Open Source Projects
 
 ---
 
@@ -53,21 +54,14 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 ![Logisim](https://img.shields.io/badge/Logisim-2E8B57?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge)
-![Filmora](https://img.shields.io/badge/Filmora-00BFFF?style=for-the-badge) 
+![Filmora](https://img.shields.io/badge/Filmora-00BFFF?style=for-the-badge)
 
-### 🧠 Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming (Java & C++)
-- Operating Systems
-- Exploratory Data Analysis (EDA)
-- Artificial Intelligence Fundamentals
-- Software Engineering Principles
-- Problem Solving & Analytical Thinking
-## 📚 Currently Learning
+---
+
+## 🌱 Currently Learning
 
 - Data Structures & Algorithms
-- JavaScript
-- Tailwind CSS
+- Spring Boot
 - Machine Learning
 - Deep Learning
 - Natural Language Processing (NLP)
@@ -75,19 +69,47 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
+
+### TerraFlow Analytics
+Urban Intelligence Dashboard Prototype for analyzing and visualizing urban development data.
+
+### Cipher.cli
+Web3-based command-line interface for triggering blockchain interactions programmatically.
+
+### Exploratory Data Analysis Projects
+Performed data cleaning, preprocessing, visualization, outlier detection, correlation analysis, feature engineering, and statistical analysis using Python.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Yashraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
@@ -100,7 +122,7 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 ## 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
