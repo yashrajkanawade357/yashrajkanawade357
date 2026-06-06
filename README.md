@@ -1,24 +1,34 @@
-# Hi 👋, I'm Yashraj Kanawade
+<h1 align="center">Hi 👋, I'm Yashraj Kanawade</h1>
 
-### 🚀 Aspiring Software Engineer | AI & ML Enthusiast | B.Tech CSE @ VIT'29
+<h3 align="center">
+Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Learning+Web+Development+and+Data+Analytics;Building+Projects+and+Solving+Problems;Always+Learning+Something+New+🚀" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 First-Year B.Tech Computer Science & Engineering Student at VIT
-- 💡 Passionate about Software Development, Artificial Intelligence, and Machine Learning
-- 🌱 Currently learning Data Structures & Algorithms, Web Development, Data Analytics, and Deep Learning
-- 📊 Experienced with EDA, Data Cleaning, NumPy, Pandas, and Data Visualization
-- 🔭 Building real-world projects to strengthen problem-solving and development skills
+- 🎓 B.Tech Computer Science & Engineering Student at VIT
+- 💡 Passionate about Software Engineering, Artificial Intelligence, and Machine Learning
+- 🌱 Currently learning Data Structures & Algorithms, Web Development, Data Analytics, Deep Learning, and NLP
+- 📊 Experienced with Data Cleaning, EDA, NumPy, Pandas, and Data Visualization
+- 🚀 Building projects to strengthen problem-solving and development skills
 - 🎯 Goal: Become a Software Engineer specializing in AI-powered applications
-- 🤝 Open to collaborating on Open Source, AI/ML, and Web Development projects
+- 🤝 Open to collaborating on AI/ML, Open Source, and Development Projects
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+<p align="left">
+<a href="https://www.linkedin.com/in/yashraj-kanawade-289039223/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Yashraj%20Kanawade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -29,12 +39,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Web Development
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Data Science & AI
+### Data Analytics & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
@@ -48,16 +58,48 @@
 
 ---
 
-## 📈 Current Focus
+## 📚 Currently Learning
 
 - Data Structures & Algorithms
-- JavaScript & Modern Web Development
-- Machine Learning Fundamentals
-- Deep Learning & NLP
-- Building End-to-End Projects
+- JavaScript
+- Tailwind CSS
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Software Engineering Principles
 
 ---
 
-## ⚡ Fun Fact
+## 📈 GitHub Stats
 
-> I believe the best way to learn technology is by building projects and solving real-world problems.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### ⚡ Motto
+
+> Build. Learn. Improve. Repeat. 🚀
