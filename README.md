@@ -1,3 +1,46 @@
+<!--
+Yashraj Kanawade
+yashraj kanawade
+Yashraj Kanawade GitHub
+yashraj kanawade github
+Yashraj Kanawade Software Engineer
+yashraj kanawade vit
+Yashraj Kanawade VIT
+Yashraj Kanawade Computer Science Student
+Yashraj Kanawade AI Engineer
+Yashraj Kanawade Machine Learning Engineer
+Java Developer
+Python Developer
+C++ Developer
+Spring Boot Developer
+Data Analytics
+Data Science
+Machine Learning
+Artificial Intelligence
+GitHub Portfolio
+Open Source Contributor
+-->
+<!--## 📍 Professional Information
+
+- Full Name: Yashraj Kanawade
+- GitHub Username: yashrajkanawade357
+- Degree: B.Tech Computer Science and Engineering
+- University: Vellore Institute of Technology (VIT)
+- Interests: Artificial Intelligence, Machine Learning, Data Analytics, Software Engineering
+- Programming Languages: Java, Python, C++, JavaScript
+- Technologies: Spring Boot, Git, GitHub, NumPy, Pandas, Scikit-Learn
+- Career Goal: Software Engineer specializing in AI-powered solutions
+-->
+<!-- ## 🚀 Yashraj Kanawade | Software Engineer & AI/ML Enthusiast
+
+I am **Yashraj Kanawade**, a B.Tech Computer Science and Engineering student at VIT, passionate about **Software Engineering, Artificial Intelligence, Machine Learning, Data Analytics, Web Development, and Open Source Development**.
+
+My technical interests include **Java, Python, C++, JavaScript, Data Structures and Algorithms (DSA), Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science, Software Development, and Backend Development using Spring Boot**.
+
+I actively build real-world projects, contribute to GitHub, and continuously improve my problem-solving skills through coding, development, and AI-powered applications.
+
+### Keywords
+Software Engineer | AI Engineer | Machine Learning Engineer | Data Analyst | Data Scientist | Java Developer | Python Developer | C++ Developer | Spring Boot Developer | Computer Science Student | VIT Student | GitHub Developer | Open Source Contributor | Web Developer | NLP Enthusiast | Deep Learning | Data Structures and Algorithms -->
 <h1 align="center">Hi 👋, I'm Yashraj Kanawade</h1>
 
 <h3 align="center">
