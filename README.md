@@ -68,7 +68,6 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 
  ### 💡 Portfolio
 🔗 **Website:** https://yashrajkanawadevit.netlify.app/
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://yashrajkanawadevit.netlify.app/)
 
 
 ---
