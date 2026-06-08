@@ -64,8 +64,11 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 - 📊 Experienced with Data Cleaning, EDA, NumPy, Pandas, and Data Visualization
 - 🚀 Building projects to strengthen problem-solving and development skills
 - 🎯 Goal: Become a Software Engineer specializing in AI-powered applications
-- 🤝 Open to collaborating on AI/ML, Open Source, and Development Projects 
-- https://yashrajkanawadevit.netlify.app/
+- 🤝 Open to collaborating on AI/ML, Open Source, and Development Projects
+<p>
+    <a  href=" https://yashrajkanawadevit.netlify.app/" target="_blank" ></a>
+</p>
+
 
 
 ---
