@@ -66,7 +66,7 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 - 🎯 Goal: Become a Software Engineer specializing in AI-powered applications
 - 🤝 Open to collaborating on AI/ML, Open Source, and Development Projects
 <p>
-    <a  href=" https://yashrajkanawadevit.netlify.app/" target="_blank" ></a>
+    <a href="https://yashrajkanawadevit.netlify.app/"target="_blank" ></a>
 </p>
 
 
