@@ -147,10 +147,10 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 
 
 ## 🔥 GitHub Streak
-<p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajkanawade357&theme=dark&background=0D1117&stroke=FFFFFF&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&border=FFFFFF" />
-</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yashrajkanawade357&theme=dark&background=0D1117&stroke=FFFFFF&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&border=FFFFFF" />
+</p> 
 
 ## 👀 Profile Views
 <p align="center">
