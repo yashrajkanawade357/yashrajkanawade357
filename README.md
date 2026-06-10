@@ -69,7 +69,7 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
  ### 💡 Portfolio
 🔗 **Website:** https://yashrajkanawadevit.netlify.app/
 
-### Project Website Links
+### 📊 Project Website Links
 🔗 **Website:** https://study-tracker-eight-delta.vercel.app/
 
 
