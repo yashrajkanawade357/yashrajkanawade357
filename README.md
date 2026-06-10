@@ -149,8 +149,9 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashrajkanawade357&theme=dark&background=0D1117&stroke=FFFFFF&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&border=FFFFFF" />
-</p> 
+  <img src="https://streak-stats.demolab.com?user=yashrajkanawade357&theme=github-dark" alt="GitHub Streak" />
+</p>
+
 
 ## 👀 Profile Views
 <p align="center">
