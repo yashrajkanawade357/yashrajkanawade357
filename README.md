@@ -115,11 +115,11 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![UCIMLRepo](https://img.shields.io/badge/UCIMLRepo-D00000?style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![UCIMLRepo](https://img.shields.io/badge/UCIMLRepo-D00000?style=for-the-badge)
 
 ### 📖 Learning Resources
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
