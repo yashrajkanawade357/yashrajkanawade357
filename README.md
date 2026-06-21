@@ -100,6 +100,11 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 
 ### ⚙️ Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### ☁️ DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 📊 Data Analytics & AI
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -133,17 +138,18 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 ![Filmora](https://img.shields.io/badge/Filmora-00BFFF?style=for-the-badge)
 
 ### 🧠 Core Computer Science
-- Data Structures & Algorithms
 - Object-Oriented Programming (Java & C++)
 - Operating Systems
 - Exploratory Data Analysis (EDA)
 - Artificial Intelligence Fundamentals
+- Machine Learning Fundamentals
+- REST APIs & Flask Development
+- Docker & Kubernetes Basics
 - Software Engineering Principles
 - Problem Solving & Analytical Thinking
 ---
 
 ## 📚 Currently Learning
-
 - Data Structures & Algorithms
 - JavaScript
 - Tailwind CSS
