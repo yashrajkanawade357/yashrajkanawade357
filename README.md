@@ -115,7 +115,7 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 ![Transformer Architecture](https://img.shields.io/badge/Transformer_Architecture-FF6F00?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B1FA2?style=for-the-badge)
-![LoRA/QLoRA](https://img.shields.io/badge/LoRA-1976D2?style=for-the-badge)
+![LoRA and QLoRA](https://img.shields.io/badge/LoRA/QLoRA-1976D2?style=for-the-badge)
 ![PEFT](https://img.shields.io/badge/PEFT-5D4037?style=for-the-badge)
 
 ### 🛠️ Tools & Platforms
