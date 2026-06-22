@@ -112,6 +112,11 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Transformer Architecture](https://img.shields.io/badge/Transformer_Architecture-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B1FA2?style=for-the-badge)
+![LoRA & QLoRA](https://img.shields.io/badge/LoRA-1976D2?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT-5D4037?style=for-the-badge)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -138,17 +143,24 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 ![Filmora](https://img.shields.io/badge/Filmora-00BFFF?style=for-the-badge)
 
 ### 🧠 Core Computer Science
+
+- Data Structures & Algorithms (DSA)
 - Object-Oriented Programming (Java & C++)
 - Operating Systems
+- Software Engineering Principles
+- Problem Solving & Analytical Thinking
+- REST APIs & Flask Development
+- Docker & Kubernetes Basics
 - Exploratory Data Analysis (EDA)
 - Artificial Intelligence Fundamentals
 - Machine Learning Fundamentals
-- REST APIs & Flask Development
-- Docker & Kubernetes Basics
-- Software Engineering Principles
-- Problem Solving & Analytical Thinking
----
-
+- Deep Learning Fundamentals
+- Transformer Architecture
+- Prompt Engineering
+- Retrieval Augmented Generation (RAG)
+- Parameter Efficient Fine-Tuning (PEFT)
+- Low-Rank Adaptation (LoRA)
+- 
 ## 📚 Currently Learning
 - Data Structures & Algorithms
 - JavaScript
