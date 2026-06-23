@@ -131,7 +131,10 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![UCIMLRepo](https://img.shields.io/badge/UCIMLRepo-D00000?style=for-the-badge)
 
-### 📖 Learning Resources
+### 📚 Documentation & Resources
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn Docs](https://img.shields.io/badge/Scikit--Learn_Docs-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
@@ -160,7 +163,12 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 - Retrieval Augmented Generation (RAG)
 - Parameter Efficient Fine-Tuning (PEFT)
 - Low-Rank Adaptation (LoRA)
-- 
+- Hugging Face Transformers
+- Scikit-Learn
+- Model Fine-Tuning
+- Tokenization & Embeddings
+- NLP Fundamentals
+  
 ## 📚 Currently Learning
 - Data Structures & Algorithms
 - JavaScript
