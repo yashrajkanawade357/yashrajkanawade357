@@ -70,7 +70,7 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 🔗 **Website(not Updated):** https://yashrajkanawadevit.netlify.app/
 
 ### 📊 Project Website Links
-🔗 **Website:** https://study-tracker-eight-delta.vercel.app/
+🔗 **Website:** https://vyora-3d282.web.app/
 
 
 ---
