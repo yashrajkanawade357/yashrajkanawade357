@@ -67,7 +67,7 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 - 🤝 Open to collaborating on AI/ML, Open Source, and Development Projects
 
  ### 💡 Portfolio
-🔗 **Website(not Updated):** https://yashrajkanawadevit.netlify.app/
+🔗 **Website(not Updated):** https://yashrajkanawadeportfolio.netlify.app/
 
 ### 📊 Project Website Links
 🔗 **Website:** https://vyora-3d282.web.app/
