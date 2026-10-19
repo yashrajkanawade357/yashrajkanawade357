@@ -196,9 +196,12 @@ Aspiring Software Engineer • AI & ML Enthusiast • B.Tech CSE @ VIT'29
 
 ## 📈 GitHub Activity
 
+
+<h2 align="center">GitHub Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajkanawade357&bg_color=0d1117&color=FFA500&line=FFA500&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajkanawade357&theme=github-compact" alt="GitHub Activity Graph" width="100%" />
 </p>
+
 
 
 ## 🔥 GitHub Streak
